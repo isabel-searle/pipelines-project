@@ -8,3 +8,10 @@ My plan was to compare this data with the updated one and see how these customer
 
 I web-scraped Booking.com, Tripadvisor and I did my best with Expedia. Expedia has a dynamic website so I had to learn how to use Selenium. Nonetheless I've been unable to get the data from Expedia...
 
+
+After the web-scraping process I started the analysis process where I could understand that this was not a good idea. The paremeters used in Booking.com and Tripadvisor are not comparable so the results are really different between them. 
+
+This is why I started to make a new analysis with the USA dataset, so I added the old dataset and started to clean again.
+
+
+
